@@ -1,5 +1,7 @@
 # Today is a day, i guess?
 
+I'm good at: 
+
 <details open>
   <summary>Go (<code>net/http</code>, Goose, sqlc, templ, ...)</summary>
   <ul>
