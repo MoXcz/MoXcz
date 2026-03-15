@@ -55,7 +55,7 @@ In more detail:
   <summary>Web Technologies</summary>
   <ul>
     <li>Have used HTML, CSS (frameworks I know Bootstrap and Tailwind), and JavaScript (client-side)</li>
-    <li>I don't really enjoy using Node.js (or Bun), or whichever new framework comes out after writing this. I understand the niche using JavaScript (or TypeScript) fills, but I personally don't like using it. Tools like Svelte, React, and Vue are pretty much unnecessary unless you need high amount of interactivity, and thankfully I have yet to see a project that requires either of them</li>
+    <li>I don't really enjoy using Node.js (or Bun), or whichever new JS runtime comes out after writing this. I understand the niche using JavaScript (or TypeScript) fills, but I personally don't like using it. Tools like Svelte, React, and Vue are pretty much unnecessary unless you need high amount of interactivity, and thankfully I have yet to see a project that requires either of them</li>
   </ul>
 </details>
 
