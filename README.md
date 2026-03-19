@@ -39,7 +39,11 @@ In more detail:
 
 <details>
   <summary>Databases (RDB, NoRDB)</summary>
-  <p>There's not much to say except that I've worked with and used PostgreSQL, SQLite, SQL Server, MySQL, MariaDB, Redis, and MongoDB. From these the one I've used the least and the one I have yet to see a purpose for is MongoDB, the rest are pretty solid tools that are in essence the same. The greatest differece between the RDBMS mentioned is that their configuration is different and fine-tuning them for efficient use can be a hassle in certain cases. And Redis? Pretty easy to use and understand, but for what I've done PostgreSQL has always been sufficient (or in-memory cache with a map)</p>
+  <p>There's not much to say except that I've worked with and used PostgreSQL, SQLite, SQL Server, MySQL, MariaDB, Redis, and MongoDB.</p>
+
+<p>From these the one I've used the least, and the one I have yet to see a purpose for, is MongoDB. The rest (except Redis) are pretty solid RDBMS that are somewhat the same, being the greatest difference between them their configuration, which affects how they need to be fine-tuned for efficient use, which can be a hassle in certain cases.</p>
+
+<p>And Redis? Pretty easy to use and understand, but for what I've done PostgreSQL has always been sufficient (or in-memory cache with a map)</p>
 </details>
 
 <details>
