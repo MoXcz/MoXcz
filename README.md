@@ -51,7 +51,7 @@ In more detail:
   <p></p>
   <ul>
     <li>You can find some of my automation tools at my <a href="https://github.com/moxcz/dotfiles">dotfiles</a></li>
-    <li>I use Obsidian to maintain a vault with my notes. Recently I started working in publishing a mental garden online, you will see it available at <a href="https://blog.oskr.one">blog.oskr.one</a></li>
+    <li>I use Obsidian to maintain a vault with my notes. Recently I started working in publishing a mental garden online, you will see it available at <a href="https://oskr.one/blog">oskr.one</a></li>
   </ul>
 </details>
 
