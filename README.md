@@ -25,7 +25,7 @@ In more detail:
   <ul>
     <li>Standard library for html templating, net/http for TCP connections and HTTP server, and common utilities like strings, encoding, etc.</li>
     <li>I have yet to be in a project where using something more sophisticated than html templating and js doesn't do the job, but I have used and considered HTMX + templ</li>
-    <li>Have worked at making HTTP servers for full-stack applications for data visualizations that work as an alternative to Power BI, though more complex</li>
+    <li>Have worked at making HTTP servers for full-stack applications for data visualizations that work as an alternative to Power BI, though more complex and less maintainable</li>
   </ul>
 </details>
 
